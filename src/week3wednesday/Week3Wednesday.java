@@ -19,6 +19,7 @@ public class Week3Wednesday {
      */
     //comment
     //illustrating pull
+    //illustrating fetch and merge
     public static void main(String[] args) {
         // TODO code application logic here
     }
